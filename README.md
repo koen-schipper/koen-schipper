@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @koen-schipper
-- 👀 I’m interested in Ethereum Development
-- 🌱 I’m currently learning Solidity and Ethereum Security
-- 💞️ I’m looking to collaborate on Ethereum Blockchain projects
+- 👀 I’m interested in Python and Ethereum Development
+- 💞️ I’m looking to collaborate on Python and Blockchain projects
 - 📫 You can reach me through info@koenschipper.com
 
 <!---

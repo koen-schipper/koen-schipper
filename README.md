@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koen-schipper
-- 👀 I’m interested in Web and Blockchain Development
+- 👀 I’m interested in Frontend - Fullstack Development
 - 📫 You can reach me through info@koenschipper.com
 
 <!---

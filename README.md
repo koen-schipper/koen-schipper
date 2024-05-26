@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koen-schipper
-- 👀 I’m interested in Fullstack Development
+- 👀 I'm a PHP/WordPress Developer
 - 📫 You can reach me through info@koenschipper.com
 
 <!---
